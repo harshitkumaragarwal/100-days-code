@@ -19,7 +19,7 @@ int main(){
     else
     printf("c is largest number %d",c);
 
-    return 0;
+    return main;
 
 
 
